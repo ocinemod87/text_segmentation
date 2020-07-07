@@ -1,0 +1,6 @@
+tensorflow==1.14.0
+keras==2.2.4
+numpy==1.17.2
+gensim==3.8.1
+nltk==3.4.5
+py7zr==0.5.5
